@@ -1,0 +1,7 @@
+{
+  "name": "desire_home",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
