@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: 'Roboto';
 }
 
 #contenedor{
@@ -33,5 +34,9 @@ ion-tab-bar{
 
 ion-tab-button{
     --background: #FEDBD0 !important;
+}
+
+ion-icon{
+    color: #442C2E !important;
 }
 
